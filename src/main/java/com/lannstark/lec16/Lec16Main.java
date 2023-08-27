@@ -6,7 +6,6 @@ public class Lec16Main {
 
     System.out.println("Hello World");
 
-
     int number = 100;
 
   }
